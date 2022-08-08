@@ -1,0 +1,57 @@
+[
+    {
+    "name": "Ryzen 7",
+    "price":50000, 
+    "imagesName": "ryzen7", 
+    "id":0,
+    "url":"./images/ryzen7.jpg"
+    },
+    {"name":"Ryzen 5",
+    "price":30000, 
+    "imagesName": "ryzen5",
+     "id":1,
+     "url":"./images/ryzen5.jpg"
+    },
+    {
+    "name":"Ryzen 3",
+    "price":15000, 
+    "imagesName": "ryzen3", 
+    "id":2,
+    "url":"./images/ryzen3.jpg"
+},
+    {
+    "name":"Mother z590",
+    "price":44000, 
+    "imagesName": "motherz590", 
+    "id":3,
+    "url":"./images/motherz590.jpg"
+},
+    {
+    "name":"Mother b550",
+    "price":24500, 
+    "imagesName": "motherb550", 
+    "id":4,
+    "url":"./images/motherb550.jpg"
+},
+    {
+    "name":"Mother h510",
+    "price":12300, 
+    "imagesName": "motherh510", 
+    "id":5,
+    "url":"./images/motherh510.jpg"
+},
+    {
+    "name":"RAM  8gb",
+    "price":5550, 
+    "imagesName": "ram8gb", 
+    "id":6,
+    "url":"./images/ram8gb.jpg"
+},
+    {
+    "name":"RAM 16gb",
+    "price":9900, 
+    "imagesName": "ram16gb", 
+    "id":7,
+    "url":"./images/ram16gb.jpg"
+}
+]
